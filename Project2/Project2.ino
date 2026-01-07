@@ -64,6 +64,8 @@ void loop() {
        // Serial Monitor show Caution
         ???
        // buzzer continuously alarm
+        ??? 
+       // report heat source distance from Ultrasonic sensor
         ???
     } 
     else if (humi < 30)  {
